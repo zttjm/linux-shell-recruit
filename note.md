@@ -1,5 +1,5 @@
 # 任务作答记录与心得体会
-
+## 使用了claude code辅助完成
 ## 任务一（Task 01 — Project Hunt）
 
 ### 作答过程
